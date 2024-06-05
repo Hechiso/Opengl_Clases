@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 nombreProyecto=air
 rutaRecursos="Ventana/Ventana.cpp"
